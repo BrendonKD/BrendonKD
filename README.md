@@ -1,6 +1,5 @@
 <!-- Banner -->
-
-# Hi there 👋 I'm Brendon
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋+I'm+Brendon)](https://git.io/typing-svg)
 
 I'm a Final-year **Software Engineering undergraduate** passionate about building software solutions.  
 I enjoy **full-stack development, mobile applications, and API integrations**.  
