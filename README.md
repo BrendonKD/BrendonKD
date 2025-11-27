@@ -1,5 +1,4 @@
 <!-- Banner -->
-![Banner](https://drive.google.com/file/d/1q71M9RhUdusddjEUhAsingw9pvPkxK4S/view?usp=sharing)
 
 # Hi there 👋 I'm Brendon
 
