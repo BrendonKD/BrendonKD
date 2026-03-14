@@ -42,7 +42,7 @@ I enjoy **full-stack development, mobile applications, and API integrations**.
 ---
 
 ## 📊 GitHub Stats
-![Brendon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![KD Brendon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ---
